@@ -1,0 +1,23 @@
+project 'SENSINGM.xcodeproj'
+
+platform :ios, '8.0'
+inhibit_all_warnings!
+
+target 'SENSINGM' do
+
+pod 'Masonry'
+pod 'MBProgressHUD', '~> 1.1.0'
+pod 'MJRefresh'
+pod 'SGQRCode', '~> 2.2.0'
+pod 'PGDatePicker'
+pod 'MMDrawerController', '~> 0.5.7'
+pod 'LCNetwork'
+pod 'SDWebImage', '~> 4.0'
+pod 'TZImagePickerController'
+pod 'PPNetworkHelper'
+pod 'DZNEmptyDataSet'
+pod 'ReactiveObjC'
+pod 'WMPageController'
+pod 'LCActionSheet'
+ 
+end
